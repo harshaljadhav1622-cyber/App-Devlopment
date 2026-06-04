@@ -11,8 +11,9 @@ class Demo extends StatelessWidget {
         body: Center(
           child: Container(
             height: 500,
-            width: 200,
-            color: Colors.yellow,
+            width: 300,
+            color: Colors.lightBlueAccent,
+            child: Text("Hello..."),
           ),
         ),
       ),
