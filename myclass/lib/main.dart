@@ -10,10 +10,10 @@ class Demo extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Container(
-            height: 500,
-            width: 300,
-            color: Colors.lightBlueAccent,
-            child: Text("Hello..."),
+            height: 400,
+            width: 200,
+            color: Colors.brown,
+            child: Text("Helloooo"),
           ),
         ),
       ),
