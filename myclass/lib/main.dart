@@ -8,11 +8,7 @@ class Demo extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-        body: Container(
-          height: 200,
-          width: 100,
-          color: Colors.redAccent,
-        ),
+        body: Text("Helloo...")
       ),
     );
   }
